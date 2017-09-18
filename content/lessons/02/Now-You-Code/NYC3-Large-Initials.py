@@ -15,3 +15,4 @@ The goal of this program is for your to get your bearings writing code
 using the print() statement
 '''
 
+print(X       X   XXXXXXXXX\       X     X    X        \        X   X     X        \          X       XXXXXXXXX\          X               X\          X               X\          X       XXXXXXXXX)     
